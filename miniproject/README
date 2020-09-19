@@ -1,0 +1,14 @@
+Replace image paths in int main manually to run the goodmini.py script!
+
+Uncomment cv2.destroyAllWindows(0) function in show(), to be able to run the script from the terminal or other IDE than Sublime Text.
+
+Images are in the zip folder.
+
+Original image: myobjects.jpg
+Edited image (more objects of the same type added): edited.png
+Final image with the result (original, 4 and 6 objects): objectsfinal.png
+
+
+
+Script made by Valdas Druskinis, ROB4, for Robotic Perception miniproject hand-in.
+Email for contacting: vdrusk18@student.aau.dk
